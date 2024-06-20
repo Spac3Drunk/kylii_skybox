@@ -5,6 +5,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - libcurl=8.0.1
   - libjpeg-turbo=2.0.0
   - libnpp=11.7.4.75
   - libnpp-dev=11.7.4.75
