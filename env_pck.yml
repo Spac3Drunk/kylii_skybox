@@ -198,6 +198,20 @@ dependencies:
   - sqlite=3.41.2
   - stack_data=0.6.2
   - sympy=1.12
+
+  - tzdata=2023c
+  - ujson=5.7.0
+  - urllib3=1.26.15
+  - wcwidth=0.2.5
+  - websocket-client=1.6.1
+  - werkzeug=2.2.3
+  - wheel=0.41.2
+  - widgetsnbextension=4.0.8
+  - xz=5.4.6
+  - yaml=0.2.5
+  - zlib=1.2.13
+  - zstd=1.5.2
+  - pip
   - pip:
       - cmake==3.25.2
       - dlib==19.24.0

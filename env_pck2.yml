@@ -5,19 +5,13 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - tzdata=2023c
-  - ujson=5.7.0
-  - urllib3=1.26.15
-  - wcwidth=0.2.5
-  - websocket-client=1.6.1
-  - werkzeug=2.2.3
-  - wheel=0.41.2
-  - widgetsnbextension=4.0.8
-  - xz=5.4.6
-  - yaml=0.2.5
-  - zlib=1.2.13
-  - zstd=1.5.2
-  - pip
+  - threadpoolctl=3.2.0
+  - tk=8.6.12
+  - tornado=6.2
+  - tqdm=4.64.0
+  - traitlets=5.9.0
+  - typing-extensions=4.5.0
+  - typing_extensions=4.5.0
   - pip:
       - cmake==3.25.2
       - dlib==19.24.0
