@@ -45,7 +45,7 @@ dependencies:
   - notebook-shim=0.2.2
   - numexpr=2.8.4
   - numpy-base=1.24.3
-  - openssl=3.0.8
+  - openssl=1.1.1w
   - opt_einsum=3.3.0
   - packaging=23.1
   - pandas=1.4.4
